@@ -1,16 +1,19 @@
-## Hi there 👋
+# Nelson Henrique Moreira
 
-<!--
-**moreiranelsonhenrique/moreiranelsonhenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista Financeiro | Controladoria | Business Intelligence**
 
-Here are some ideas to get you started:
+Profissional de Finanças com experiência em controladoria, planejamento financeiro e análise de resultados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizo Business Intelligence para transformar dados financeiros em análises mais estruturadas e apoiar a tomada de decisão, com foco em **Power BI, DAX, Power Query e modelagem de dados**.
+
+### Áreas de atuação
+
+**Finanças:** Controladoria · FP&A · DRE · Fluxo de Caixa · Rentabilidade · Capital de Giro
+
+**BI & Analytics:** Power BI · DAX · Power Query · Modelagem de Dados · Excel · SQL
+
+### Portfólio
+
+Projetos de Business Intelligence aplicados à análise financeira e performance empresarial.
+
+→ [Acessar meu portfólio](https://moreiranelsonhenrique.github.io/)
